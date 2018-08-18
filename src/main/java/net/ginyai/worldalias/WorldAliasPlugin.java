@@ -31,6 +31,7 @@ import java.util.Objects;
 @Plugin(
         id = "worldalias",
         name = "WorldAlias",
+        version = "1.0",
         description = "Provides a custom world alias placeholder for nucleus and PAPI",
         authors = {
                 "GiNYAi"
